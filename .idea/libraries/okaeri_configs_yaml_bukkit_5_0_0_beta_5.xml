@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="okaeri-configs-yaml-bukkit-5.0.0-beta.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../McApis/okaeri-configs-yaml-bukkit-5.0.0-beta.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

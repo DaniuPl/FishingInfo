@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FishingInfo">
+    <output-path>$PROJECT_DIR$/out/artifacts/FishingInfo</output-path>
+    <root id="archive" name="FishingInfo.jar">
+      <element id="module-output" name="FishingInfo" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/Okaeri" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/OkaeriYaml" />
+    </root>
+  </artifact>
+</component>

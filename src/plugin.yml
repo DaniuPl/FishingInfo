@@ -1,0 +1,5 @@
+name: FishingInfo
+main: pl.daniu.fishinginfo.Main
+version: 1.0
+author: Daniu
+api-version: 1.8.8
